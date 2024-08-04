@@ -1,0 +1,21 @@
+body{
+    background-color: lightseagreen;
+
+}
+.container{
+    border: 2px solid white;
+    background-color: white;
+    width: 30%;
+    text-align: center;
+    border-radius: 30px;
+    margin-left: 500px;
+    margin-top: 200px;
+    font-size: 20px;
+}
+button{
+    margin-top: 20px;
+    border: 2px solid burlywood;
+    background-color: burlywood;
+    padding: 5px;
+    border-radius: 10px;
+}
